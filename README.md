@@ -1,5 +1,3 @@
-# AarogyaX-Cure
-***Live Preview:*** https://aarogyax-cure-936f95.netlify.app/
 # 🏥 AarogyaX Cure - Next-Gen Emergency Response & Digital Healthcare Ecosystem
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
